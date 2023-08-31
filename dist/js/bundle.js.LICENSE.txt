@@ -1,0 +1,21 @@
+//! 1) Dohvatit query
+
+//! 2) Pretrazivanje preko Search objekta
+
+//! 4) Pretraga za receptima
+
+//! 40 MIN VIDEA !!!!!
+
+//! 5) Render UI
+
+//! Dohvat podataka o receptu
+
+//! Highlight odabrani recept
+
+//! Izracunavanje vremena i broja serviranja
+
+//! Kreiranje novog Recipe objekta
+
+//! RECIPE CONTROLLER
+
+//! Render recepta
